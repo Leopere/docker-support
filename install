@@ -7,5 +7,6 @@ else
   ls -lAh /usr/local/src/docker-support
   ls -lAh /usr/local/src/docker-support/bin
   cd /usr/local/src/docker-support/bin/
+  ls -lAh ./
   ./rfdo /usr/local/src/docker-support/bin 'cp ' $PATH/
 fi
