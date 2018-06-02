@@ -4,5 +4,5 @@ if ! [ -x "$(command -v git)" ]; then
   exit 1
 else
   git clone https://github.com/chamunks/docker-support.git /usr/local/src/docker-support
-  cp -v /usr/local/src/docker-support/bin/ /bin/
+  cp -v /usr/local/src/docker-support/bin/* /bin/
 fi
