@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 ## Simple permissions test and assertion.
 
 ## This should only be called by test_for_[dir|file]

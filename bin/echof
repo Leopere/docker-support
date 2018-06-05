@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 ## Function echo_fancy echof all this does is makes consecutive console echo's
 ## much easier to read in CI/CD environments.

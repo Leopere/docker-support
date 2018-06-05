@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 ## If directory doesn't exist create it and set group perms.
 ## Var $1 should be a directory.
